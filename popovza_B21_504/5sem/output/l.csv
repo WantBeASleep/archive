@@ -1,0 +1,2 @@
+weight,rel_weight,weights,rel_weights,center,center_norm,inertia_hor,inertia_vert,inertia_hor_norm,inertia_vert_norm
+25844,1.0,"[6448, 6448, 6474, 6474]","[1.0, 1.0, 1.0, 1.0]","[248.0, 25.5]","[0.49798387096774194, 0.4803921568627451]",5821361.0,531972896.0,0.008715756074911004,0.7964711344993035
